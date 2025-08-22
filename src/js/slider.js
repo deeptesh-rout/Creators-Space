@@ -1,6 +1,6 @@
 const testimonials = [
   {
-    img: 'assets/images/sumit-r.jpg',
+    img: 'assets/images/userIcon_Square.png',
     name: 'Sumit R.',
     position: 'Founding Member & CEO @ Creator-Space',
     message: 'Creator Space has transformed the way I collaborate and innovate. The community is vibrant and the resources are top-notch!'
@@ -12,7 +12,7 @@ const testimonials = [
     message: 'Being a part of Creator Space has been an amazing journey. The support and networking opportunities are unmatched.'
   },
   {
-    img: 'assets/images/anurag-v.jpg',
+    img: 'assets/images/userIcon_Square.png',
     name: 'Anurag V.',
     position: 'Founding Member & Dev @ Creator-Space',
     message: 'I have grown so much as a developer thanks to the workshops and mentorship at Creator Space. Highly recommended!'

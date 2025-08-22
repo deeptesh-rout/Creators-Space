@@ -24,7 +24,7 @@
 
 Creators-Space is a modern, innovative tech-learning platform designed to empower students and professionals through high-quality content, career-oriented resources, and hands-on project experience. Our mission is to bridge the gap between theoretical knowledge and practical implementation in the tech industry.
 
-🔗 **Live Website:** [https://creators-space.netlify.app/](https://creators-space.netlify.app/)
+🔗 **Live Website:** [https://super-brigadeiros-b9a105.netlify.app/](https://super-brigadeiros-b9a105.netlify.app/)
 
 ---
 
